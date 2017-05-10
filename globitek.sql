@@ -348,6 +348,7 @@ INSERT INTO `users` (`id`, `first_name`, `last_name`, `email`, `username`, `hash
 (1, 'James', 'Munroe', 'test@test.com', 'jmonroe99', '$2y$11$YaF8QTIAFPepnXyLwI/TWeZRtuf/wbMpxrps/bJeIOmVje9W8bgo2', NULL),
 (2, 'Hello', 'IAm', 'ttqq@qqww.csd', 'gianisthebest123', '$2y$11$U9cbRVKuG/dzb7oFNet23eFKIX4EC6TltrwIGukMqEBoywm.S1Bfe', '2017-02-20 10:39:35'),
 (3, 'ABC', 'DEF', 'sdsa@sfds.ccc', 'ghjkisdfsdfsd', '$2y$11$qtS7FKUhoqY4FkfHz6/IJOKOPj9s79t8aRgP1.QZl3N1ddJueq9ey', '2017-02-20 10:42:36');
+(4, 'Admin', 'Admin', 'root@admin.com', 'admin', '$2y$11$YaF8QTIAFPepnXyLwI/TWeZRtuf/wbMpxrps/bJeIOmVje9W8bgo2', NULL),
 
 --
 -- Indexes for dumped tables
